@@ -3,7 +3,7 @@
 
 ## 关于博客的构建
 ### 架构
-　　采用Hugo静态网站生成器，主题为LoveIt，经由国人基于KeepIt深度定制，更为简洁优雅。博客内评论功能由Valine提供，评论存储于LeanCloud云服务。目前博客部署于Github Pages/Coding Pages，后续考虑注册个易记的域名。
+　　采用[Hugo](https://gohugo.io/)静态网站生成器，主题为[LoveIt](https://themes.gohugo.io/loveit/)，经由国人基于[KeepIt](https://themes.gohugo.io/keepit/)深度定制，更为简洁优雅。博客内评论功能由[Valine](https://valine.js.org/)提供，评论存储于[LeanCloud](https://www.leancloud.cn/)云服务。目前博客部署于[Github Pages](https://github.com/China-ms/china-ms.github.io)/[Coding Pages](https://china-ms.coding.net/public/msblog/msblog/git)，后续考虑注册个易记的域名。
 
 ## 写在开始
 　　学习别人是容易的，做自己很难。自上个月我就开始手写日记，做每一次用心的整理都是在审视自己的不足，直面曾经的收获与遗憾。这个过程给了我启发，行动就有意义。
